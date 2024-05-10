@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "388421573256",
+    "project_id": "cemap-1",
+    "storage_bucket": "cemap-1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:388421573256:android:68e19a965b0f95cf471d3d",
+        "android_client_info": {
+          "package_name": "cemap1.free.mock.text.exam.paper.speciment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "388421573256-gg3lpgrhvjfcue26ane07n98qvu780t3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "cemap1.free.mock.text.exam.paper.speciment",
+            "certificate_hash": "7cead1440b7e006db63a5d79949fbc9fb25e2d08"
+          }
+        },
+        {
+          "client_id": "388421573256-jcql37l0pmfcovnf24smu4bsha6ortjh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "cemap1.free.mock.text.exam.paper.speciment",
+            "certificate_hash": "c86072ee57e5993a90b9efac54e8fc1b23ae5850"
+          }
+        },
+        {
+          "client_id": "388421573256-t4a2hb17gm7shn8uka44stdrjdacnqs6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "cemap1.free.mock.text.exam.paper.speciment",
+            "certificate_hash": "9be012e7d0fc81aad98d6a3a81c29fd042580581"
+          }
+        },
+        {
+          "client_id": "388421573256-ansg6ms03k5esi525b9psh84s2areah1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2Zct-WO_DVnwWwYZKCWkJrR8JsMzZSs0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "388421573256-ansg6ms03k5esi525b9psh84s2areah1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
